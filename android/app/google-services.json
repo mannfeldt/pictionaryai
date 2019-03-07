@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "508653831185",
+    "firebase_url": "https://pictionaryai.firebaseio.com",
+    "project_id": "pictionaryai",
+    "storage_bucket": "pictionaryai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508653831185:android:a6180a1080228d99",
+        "android_client_info": {
+          "package_name": "mannfeldt.pictionaryai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508653831185-45bkm0232aqjfh8faptutkm9qtof20sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyV15_NwxiXqESJfCpxNJdnNEwLPQGVyA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
